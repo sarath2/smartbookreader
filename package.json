@@ -1,0 +1,24 @@
+{
+	"name": "smartbookreader",
+	"version": "0.0.5",
+	"private": true,
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"async": "0.2.10",
+		"crypto": "0.0.3",
+		"express": "3.4.0",
+		"googleapis": "^1.0.20",
+		"mandrill-api": "1.0.39",
+		"mysql": "2.0.0-alpha9",
+		"passport": "0.2.0",
+		"passport-local": "0.1.6",
+		"request": "2.33.0",
+		"sockjs": "0.3.8",
+		"express-promise": "0.3.0",
+		"connect-multiparty": "^1.0.4",
+		"lodash": "^2.4.1",
+		"xmlhttprequest ": "^1.6.0"
+	}
+}
